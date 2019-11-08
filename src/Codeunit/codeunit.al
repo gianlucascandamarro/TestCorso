@@ -29,7 +29,7 @@ codeunit 50100 "Populate Animals"
 
 
         Animals.init;
-        Animals."Animal Code" := 'C0003';
+        Animals."Animal Code" := 'C0009';
         Animals."Animal Name" := 'cartonio';
         Animals.Breed := 'Collie';
         Animals."Owner Code" := '10000';
