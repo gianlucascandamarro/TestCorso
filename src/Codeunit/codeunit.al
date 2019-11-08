@@ -14,6 +14,13 @@ codeunit 50100 "Populate Animals"
         Animals.Insert;
 
         Animals.init;
+        Animals."Animal Code" := 'C0003';
+        Animals."Animal Name" := 'Fermo';
+        Animals.Breed := 'Bassotto';
+        Animals."Owner Code" := '20000';
+        Animals.Insert;
+
+        Animals.init;
         Animals."Animal Code" := 'C0002';
         Animals."Animal Name" := 'foffo';
         Animals.Breed := 'Collie';
