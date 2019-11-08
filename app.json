@@ -1,0 +1,26 @@
+{
+  "id": "e339f552-8384-4d07-b5c7-2ea3843983f1",
+  "name": "TestCorso3",
+  "publisher": "Default publisher",
+  "version": "1.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://TestCorso3.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
