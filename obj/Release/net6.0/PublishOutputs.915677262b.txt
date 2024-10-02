@@ -1,0 +1,7 @@
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\bin\Release\net6.0\publish\saluti-web-service.exe
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\bin\Release\net6.0\publish\appsettings.Development.json
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\bin\Release\net6.0\publish\appsettings.json
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\bin\Release\net6.0\publish\saluti-web-service.dll
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\bin\Release\net6.0\publish\saluti-web-service.deps.json
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\bin\Release\net6.0\publish\saluti-web-service.runtimeconfig.json
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\bin\Release\net6.0\publish\saluti-web-service.pdb

@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/8c9703c3-8d3c-4bba-9849-504817081306/resourceGroups/CorsoAzure/providers/Microsoft.Web/sites/SalutiWebApp"
+}

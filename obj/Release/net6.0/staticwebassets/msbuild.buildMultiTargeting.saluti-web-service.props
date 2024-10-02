@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\saluti-web-service.props" />
+</Project>

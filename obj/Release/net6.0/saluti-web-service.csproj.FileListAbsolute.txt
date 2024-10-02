@@ -1,0 +1,46 @@
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\bin\Release\net6.0\appsettings.Development.json
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\bin\Release\net6.0\appsettings.json
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\bin\Release\net6.0\saluti-web-service.exe
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\bin\Release\net6.0\saluti-web-service.deps.json
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\bin\Release\net6.0\saluti-web-service.runtimeconfig.json
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\bin\Release\net6.0\saluti-web-service.dll
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\bin\Release\net6.0\saluti-web-service.pdb
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\obj\Release\net6.0\saluti-web-service.csproj.AssemblyReference.cache
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\obj\Release\net6.0\saluti-web-service.GeneratedMSBuildEditorConfig.editorconfig
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\obj\Release\net6.0\saluti-web-service.AssemblyInfoInputs.cache
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\obj\Release\net6.0\saluti-web-service.AssemblyInfo.cs
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\obj\Release\net6.0\saluti-web-service.csproj.CoreCompileInputs.cache
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\obj\Release\net6.0\saluti-web-service.MvcApplicationPartsAssemblyInfo.cache
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\obj\Release\net6.0\staticwebassets.build.json
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\obj\Release\net6.0\staticwebassets.development.json
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\obj\Release\net6.0\scopedcss\bundle\saluti-web-service.styles.css
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\obj\Release\net6.0\saluti-web-service.dll
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\obj\Release\net6.0\refint\saluti-web-service.dll
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\obj\Release\net6.0\saluti-web-service.pdb
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\obj\Release\net6.0\saluti-web-service.genruntimeconfig.cache
+H:\Cloud\Azure\WebApi\C#\saluti-web-service\obj\Release\net6.0\ref\saluti-web-service.dll
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\bin\Release\net6.0\appsettings.Development.json
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\bin\Release\net6.0\appsettings.json
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\bin\Release\net6.0\saluti-web-service.exe
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\bin\Release\net6.0\saluti-web-service.deps.json
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\bin\Release\net6.0\saluti-web-service.runtimeconfig.json
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\bin\Release\net6.0\saluti-web-service.dll
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\bin\Release\net6.0\saluti-web-service.pdb
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\obj\Release\net6.0\saluti-web-service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\obj\Release\net6.0\saluti-web-service.AssemblyInfoInputs.cache
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\obj\Release\net6.0\saluti-web-service.AssemblyInfo.cs
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\obj\Release\net6.0\saluti-web-service.csproj.CoreCompileInputs.cache
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\obj\Release\net6.0\saluti-web-service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\obj\Release\net6.0\staticwebassets\msbuild.saluti-web-service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\obj\Release\net6.0\staticwebassets\msbuild.build.saluti-web-service.props
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.saluti-web-service.props
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.saluti-web-service.props
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\obj\Release\net6.0\scopedcss\bundle\saluti-web-service.styles.css
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\obj\Release\net6.0\saluti-web-service.dll
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\obj\Release\net6.0\refint\saluti-web-service.dll
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\obj\Release\net6.0\saluti-web-service.pdb
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\obj\Release\net6.0\saluti-web-service.genruntimeconfig.cache
+C:\Users\io\My Drive\Corsi\Azure\saluti-web-serviceC\saluti-web-service\obj\Release\net6.0\ref\saluti-web-service.dll
